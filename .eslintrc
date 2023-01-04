@@ -1,3 +1,4 @@
 {
-    "extends": "@react-native"
+    "extends": "@react-native",
+    "plugins": ["@react-native"]
 }
