@@ -11,9 +11,9 @@
     "lint": "eslint . --ext .js"
   },
   "dependencies": {
-    "babel-preset-expo": "^1.0.0",
+    "babel-preset-expo": "~9.2.1",
     "core-js": "^3.27.1",
-    "expo": "^1.0.0",
+    "expo": "^47.0.11",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-native": "0.70.5",

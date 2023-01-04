@@ -8,7 +8,7 @@ export const ResturantsScreen = () => (
       <Searchbar />
     </View>
     <View style={styles.list}>
-      <Text>list</Text>
+      <Text>liSDfsdgst</Text>
     </View>
   </SafeAreaView>
 );   
